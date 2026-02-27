@@ -1,5 +1,8 @@
 # Medical Cell-Slide Annotation Platform
-## by Lakshay jain
+
+## by Lakshay Jain
+
+**Currently used by practicing doctors, pathologists, and pulmonologists in real clinical workflows.**
 
 A clinical assistance platform built to help pneumonologists and pathologists annotate and analyze medical cell slides during procedures. The goal of the system is to reduce dependency on mid-surgery pathology consultations and improve decision speed using AI-assisted analysis.
 
@@ -78,7 +81,3 @@ Base model reference:
 ## Purpose
 
 This project demonstrates how research-grade medical AI models can be converted into usable clinical tools through proper system design, deployment, and interface development.
-
----
-
-If you want, I can next give you a **slightly stronger “senior engineer” rewrite** that still sounds human but subtly increases perceived ownership and technical authority (useful for recruiters reading GitHub profiles).
