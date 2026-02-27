@@ -1,10 +1,5 @@
-Understood. Here is a **clean, human-written README** — simple formatting, no emojis, no marketing tone, no AI-style punctuation. It reads like an engineer actually wrote it.
-
-You can paste this directly into `README.md`.
-
----
-
 # Medical Cell-Slide Annotation Platform
+## by Lakshay jain
 
 A clinical assistance platform built to help pneumonologists and pathologists annotate and analyze medical cell slides during procedures. The goal of the system is to reduce dependency on mid-surgery pathology consultations and improve decision speed using AI-assisted analysis.
 
